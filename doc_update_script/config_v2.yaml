@@ -1,1 +1,5 @@
-# Printer list for infill version 2 (2026) - add your printers here!
+Simhas Cartesian Gantry Slinger:
+    title: "Gantry Slinger"
+    description: "Basically a cartesian bedslinger except the gantry is slinging instead of the bed so the bed can be fully still which prevents bad things from happening to heavy or tall prints"
+    repository: "https://github.com/firesareba/Cartesian-Gantry-Slinger/blob/main/journal.md"
+    file_name: simhasgantryslinger.md# Printer list for infill version 2 (2026) - add your printers here!
